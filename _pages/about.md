@@ -5,6 +5,7 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+I'm a network and security engineer  who loves networking , network security , AI , coding, software defined networking,.. .
 
-Etc, etc, etc
+-blockchain enthusiasm
+ , etc
